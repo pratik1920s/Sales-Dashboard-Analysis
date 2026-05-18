@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Dashboard Analysis
 
 ## Project Overview
@@ -40,3 +41,7 @@ Global sales dataset containing:
 - KPI analysis
 - Trend analysis
 - Business recommendations
+=======
+# Sales-Dashboard-Analysis
+Interactive Global Sales Dashboard using Python and Power BI
+>>>>>>> 0887944dc06f28e67e4b9cfb8523be8c627b55d4
