@@ -1,0 +1,4 @@
+- Technology category has highest sales.
+- Some products generate losses.
+- Sales increase during year-end months.
+- Certain regions contribute most profit.
